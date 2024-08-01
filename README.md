@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🤝!! ##
 
-<!--
-**NASAmart/NASAmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Prazer, me chamo Antonia, tenho 15 anos.
 
-Here are some ideas to get you started:
+-Estou em desenvolvimento na linguagem JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Uma nerd interessada em robótica, e bem criativa.
+
+## Você pode entrar em contato comigo !! 📫
+
+martinitf0264@gmail.com
+
+## É isso, beijoss 💋 !!
+
+![](https://media.tenor.com/ISzJYlZmvUAAAAAM/dipper-mabelpines.gif)
