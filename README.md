@@ -11,5 +11,5 @@
 
 ## Muito obrigado, bjss 💋
 
-![](https://github.com/user-attachments/assets/e958cb76-cc8d-4261-8d2a-ef321cf293dd)
+![](https://media.tenor.com/ISzJYlZmvUAAAAAM/dipper-mabelpines.gif)
 
